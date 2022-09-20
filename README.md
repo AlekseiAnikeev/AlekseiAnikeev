@@ -2,8 +2,8 @@
 ### Computer science student.
 
 ### Проходил обучение:
-- [Netology / Основы разработки на Java]()
-- [Computer Science Center / java.Базовый курс]()
+- [Netology / Основы разработки на Java](https://github.com/AlekseiAnikeev/AlekseiAnikeev/blob/main/Netology_Free_java.pdf)
+- [Computer Science Center / java.Базовый курс](https://github.com/AlekseiAnikeev/AlekseiAnikeev/blob/main/stepik-certificate.pdf)
 - [Java марафон / Наиль Алишев](https://github.com/AlekseiAnikeev/marathon)
 - [JavaRush 41 уровень](https://javarush.ru/users/2888134)
 ### В настоящее время прохожу обучение в [Нетология](https://netology.ru/)
