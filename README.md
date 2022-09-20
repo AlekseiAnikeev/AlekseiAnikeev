@@ -46,7 +46,7 @@
 ### Шаблоны проектирования
 
 ### Курсовой проект / Дипломная работа
-[Курсовой проект «Конвертер в текстовую графику»](https://github.com/AlekseiAnikeev/ConverterToTextGraphics)
+- [Курсовой проект «Конвертер в текстовую графику»](https://github.com/AlekseiAnikeev/ConverterToTextGraphics)
 <!--
 **AlekseiAnikeev/AlekseiAnikeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
