@@ -37,8 +37,9 @@
 - [Тестирование кода и Unit-тесты](https://github.com/AlekseiAnikeev/netology-lesson26)
 - [Mockito. Мокирование вызовов, Mock](https://github.com/AlekseiAnikeev/netology-lesson27)
 
-#### Работа с сетью
-- [Основы работы с сетью. Модель OSI, TCP, UDP]
+#### Работа с сетью ![OSI, TCP AND UDP](https://cdn0.iconfinder.com/data/icons/digital-marketing-1-10/50/10-32.png)
+- [Основы работы с сетью. Модель OSI, TCP, UDP - часть 1](https://github.com/AlekseiAnikeev/netology-lesson29-1)
+- - [Основы работы с сетью. Модель OSI, TCP, UDP - часть 2](https://github.com/AlekseiAnikeev/netology-lesson29-2)
 - [Протокол HTTP. Вызов удаленных серверов]
 
 #### Структура JVM
