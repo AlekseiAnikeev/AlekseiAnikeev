@@ -40,7 +40,7 @@
 #### Работа с сетью ![OSI, TCP AND UDP](https://cdn0.iconfinder.com/data/icons/digital-marketing-1-10/50/10-32.png)
 - [Основы работы с сетью. Модель OSI, TCP, UDP - часть 1](https://github.com/AlekseiAnikeev/netology-lesson29-1)
 - - [Основы работы с сетью. Модель OSI, TCP, UDP - часть 2](https://github.com/AlekseiAnikeev/netology-lesson29-2)
-- [Протокол HTTP. Вызов удаленных серверов]
+- [Протокол HTTP. Вызов удаленных серверов](https://github.com/AlekseiAnikeev/netology-lesson30)
 
 #### Структура JVM
 - [JVM. Организация памяти, сборщики мусора, VisualVM]
@@ -48,6 +48,11 @@
 
 ### Курсовой проект / Дипломная работа
 - [Курсовой проект «Конвертер в текстовую графику»](https://github.com/AlekseiAnikeev/ConverterToTextGraphics)
+
+# Games in Java
+
+- [2d game Java Swing](https://github.com/AlekseiAnikeev/JavaSwing2DGame)
+
 <!--
 **AlekseiAnikeev/AlekseiAnikeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
