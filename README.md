@@ -43,7 +43,7 @@
 - [Протокол HTTP. Вызов удаленных серверов](https://github.com/AlekseiAnikeev/netology-lesson30)
 
 #### Структура JVM
-- [JVM. Организация памяти, сборщики мусора, VisualVM]
+- [JVM. Организация памяти, сборщики мусора, VisualVM](https://github.com/AlekseiAnikeev/netology-lesson31)
 ### Шаблоны проектирования
 
 ### Курсовой проект / Дипломная работа
