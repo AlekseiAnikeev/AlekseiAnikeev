@@ -48,6 +48,7 @@
 
 ### Курсовой проект / Дипломная работа
 - [Курсовой проект «Конвертер в текстовую графику»](https://github.com/AlekseiAnikeev/ConverterToTextGraphics)
+- [Курсовой проект «Менеджер личных финансов»](https://github.com/AlekseiAnikeev/netology-personal_finance_manager)
 
 # Games in Java
 
