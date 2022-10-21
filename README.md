@@ -45,6 +45,8 @@
 #### Структура JVM
 - [JVM. Организация памяти, сборщики мусора, VisualVM](https://github.com/AlekseiAnikeev/netology-lesson31)
 ### Шаблоны проектирования
+- [Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype](https://github.com/AlekseiAnikeev/netology-lesson33-1)
+- - [Порождающие шаблоны. Singleton](https://github.com/AlekseiAnikeev/netology-lesson33-2)
 
 ### Курсовой проект / Дипломная работа
 - [Курсовой проект «Конвертер в текстовую графику»](https://github.com/AlekseiAnikeev/ConverterToTextGraphics)
