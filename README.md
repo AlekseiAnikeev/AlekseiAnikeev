@@ -62,6 +62,11 @@
 - [Порождающие шаблоны. Builder](https://github.com/AlekseiAnikeev/netology-lesson33-1)
 - [Порождающие шаблоны. Singleton](https://github.com/AlekseiAnikeev/netology-lesson33-2)
 
+### Структурные шаблоны. Proxy, Decorator, Adapter
+
+- [Структурные шаблоны. Adapter](https://github.com/AlekseiAnikeev/netology-lesson34)
+- [Структурные шаблоны. Facade](https://github.com/AlekseiAnikeev/netology-lesson34-2)
+
 ### Курсовой проект / Дипломная работа
 
 - [Курсовой проект «Конвертер в текстовую графику»](https://github.com/AlekseiAnikeev/ConverterToTextGraphics)
