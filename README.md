@@ -67,6 +67,10 @@
 - [Структурные шаблоны. Adapter](https://github.com/AlekseiAnikeev/netology-lesson34)
 - [Структурные шаблоны. Facade](https://github.com/AlekseiAnikeev/netology-lesson34-2)
 
+### «Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility»
+
+- [Поведенческие шаблоны. Iterator](https://github.com/AlekseiAnikeev/netology-lesson35)
+
 ### Курсовой проект / Дипломная работа
 
 - [Курсовой проект «Конвертер в текстовую графику»](https://github.com/AlekseiAnikeev/ConverterToTextGraphics)
