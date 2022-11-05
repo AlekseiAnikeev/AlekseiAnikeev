@@ -11,10 +11,9 @@
 
 ### В настоящее время прохожу обучение в: 
 - [Нетология](https://netology.ru/)
+- - [Задания курса](https://github.com/AlekseiAnikeev/NetologyCourse)
+
 - [SPRING](https://swiftbook.org/courses/438)
-
-- [Задания курса](https://github.com/AlekseiAnikeev/NetologyCourse)
-
 
 # Games in Java
 
