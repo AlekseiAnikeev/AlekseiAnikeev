@@ -9,7 +9,9 @@
 - [Java марафон / Наиль Алишев](https://github.com/AlekseiAnikeev/marathon)
 - [JavaRush 41 уровень](https://javarush.ru/users/2888134)
 
-### В настоящее время прохожу обучение в [Нетология](https://netology.ru/)
+### В настоящее время прохожу обучение в: 
+- [Нетология](https://netology.ru/)
+- [SPRING](https://swiftbook.org/courses/438)
 
 - [Задания курса](https://github.com/AlekseiAnikeev/NetologyCourse)
 
