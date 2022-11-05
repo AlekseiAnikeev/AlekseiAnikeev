@@ -2,20 +2,15 @@
 
 ### Computer science student.
 
-### Сертификаты:
-
-- [Netology / Основы разработки на Java](https://github.com/AlekseiAnikeev/AlekseiAnikeev/blob/main/Netology_Free_java.pdf)
-- [Computer Science Center / java.Базовый курс](https://github.com/AlekseiAnikeev/AlekseiAnikeev/blob/main/stepik-certificate.pdf)
-- [JavaRush 41 уровень](https://javarush.ru/users/2888134)
-
 ### Проходил обучение:
 
-| Название курса                                                 | Учебный код курса                                                 |
-|:---------------------------------------------------------------|:------------------------------------------------------------------|
-| [Java марафон / Наиль Алишев](https://java-marathon.tilda.ws/) | [Задания курса](https://github.com/AlekseiAnikeev/marathon)       |
-| [Нетология](https://netology.ru/)                              | [Задания курса](https://github.com/AlekseiAnikeev/NetologyCourse) |
-| [SPRING](https://swiftbook.org/courses/438)                    | [Задания курса]()                                                 |
-
+| Название курса                                                                        | Учебный код курса                                           | Сертификат                                                                                      |
+|:--------------------------------------------------------------------------------------|:------------------------------------------------------------|:------------------------------------------------------------------------------------------------|
+| [Java марафон / Наиль Алишев](https://java-marathon.tilda.ws/)                        | [Задания курса](https://github.com/AlekseiAnikeev/marathon) | Не выдается                                                                                     |
+| [JavaRush 41 уровень](https://javarush.ru/users/2888134)                              | ---                                                         | ---                                                                                             |
+| [Computer Science Center / java.Базовый курс](https://stepik.org/course/187/syllabus) | ---                                                         | [Сертификат](https://github.com/AlekseiAnikeev/AlekseiAnikeev/blob/main/stepik-certificate.pdf) |
+| [Netology / Основы разработки на Java](https://java-marathon.tilda.ws/)               | ---                                                         | [Сертификат](https://github.com/AlekseiAnikeev/AlekseiAnikeev/blob/main/Netology_Free_java.pdf) |
+ 
 # Games in Java
 
 - [2d game Java Swing](https://github.com/AlekseiAnikeev/JavaSwing2DGame)
