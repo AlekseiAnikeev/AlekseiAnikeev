@@ -5,7 +5,7 @@
 - Java
 - Collections
 - Stream API
-- Работа с шаблонами проектирования: Builder, Singletone, Factory Method, Proxy, Decorator, Adapter, Command, Iterator,
+- Работа с шаблонами проектирования: Builder, Singleton, Factory Method, Proxy, Decorator, Adapter, Command, Iterator,
   Observer, Chain of Responsibility.
 - Multithreading
 - Maven
