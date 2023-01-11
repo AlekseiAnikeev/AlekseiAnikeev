@@ -21,7 +21,7 @@
 | [Computer Science Center / java.Базовый курс](https://stepik.org/course/187/syllabus)   | ---                                                                       | [Сертификат](https://github.com/AlekseiAnikeev/AlekseiAnikeev/blob/main/stepik-certificate.pdf)      |
 | [Netology / Основы разработки на Java](https://netology.ru/)                            | ---                                                                       | [Сертификат](https://github.com/AlekseiAnikeev/AlekseiAnikeev/blob/main/Netology_Free_java.pdf)      |
 | [Нетология / Java разработчик](https://netology.ru/)                                    | [Задания курса](https://github.com/AlekseiAnikeev/NetologyCourse)         | [Сертификат](https://github.com/AlekseiAnikeev/AlekseiAnikeev/blob/main/java_developer_netology.pdf) |
-| [Нетология / Spring](https://netology.ru/)                                              | [Задания курса](https://github.com/AlekseiAnikeev/netology_spring_cource) | [Сертификат]()                                                                                       |
+| [Нетология / Spring](https://netology.ru/)                                              | [Задания курса](https://github.com/AlekseiAnikeev/netology_spring_cource) | [Сертификат](https://github.com/AlekseiAnikeev/AlekseiAnikeev/blob/main/certificateSpring.pdf)       |
 | [Spring полный курс](https://swiftbook.org/courses/438)                                 | [Задания курса](https://github.com/AlekseiAnikeev/spring_full_cource)     | В процессе обучения                                                                                  |
 
 # Games in Java
